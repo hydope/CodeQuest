@@ -6,7 +6,7 @@
 
 CodeQuest turns a repo into an interactive map: every file, every connection, every API endpoint — explained in plain language, linked to your Jira tickets and Figma designs. Business people finally see *why* the code exists. Developers see *what breaks* before they touch it.
 
-[![CI](https://github.com/abicevoice1-sudo/CodeQuest/actions/workflows/codequest.yml/badge.svg)](https://github.com/abicevoice1-sudo/CodeQuest/actions/workflows/codequest.yml)
+[![CI](https://github.com/hydope/CodeQuest/actions/workflows/codequest.yml/badge.svg)](https://github.com/hydope/CodeQuest/actions/workflows/codequest.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node 18+](https://img.shields.io/badge/node-18%2B-brightgreen.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/npm/v/codequest-ai.svg)](https://www.npmjs.com/package/codequest-ai)

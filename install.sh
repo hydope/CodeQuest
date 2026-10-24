@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # CodeQuest one-line setup (macOS / Linux):
-#   curl -fsSL https://raw.githubusercontent.com/abicevoice1-sudo/CodeQuest/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/hydope/CodeQuest/main/install.sh | bash
 set -e
 echo "→ CodeQuest setup"
 

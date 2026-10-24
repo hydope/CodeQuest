@@ -8,7 +8,7 @@ show the fixture, the test, and the benchmark.
 ## Setup
 
 ```bash
-git clone https://github.com/abicevoice1-sudo/CodeQuest.git
+git clone https://github.com/hydope/CodeQuest.git
 cd CodeQuest
 node --test codequest/tests/          # analyzer suite (19 tests, zero deps)
 cd visualizer && npm install && npm run dev

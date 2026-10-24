@@ -1,5 +1,5 @@
 # CodeQuest one-line setup (Windows PowerShell — run as admin for the Node install step):
-#   irm https://raw.githubusercontent.com/abicevoice1-sudo/CodeQuest/main/install.ps1 | iex
+#   irm https://raw.githubusercontent.com/hydope/CodeQuest/main/install.ps1 | iex
 Write-Host "→ CodeQuest setup"
 
 if (-not (Get-Command node -ErrorAction SilentlyContinue)) {
